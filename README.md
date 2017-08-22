@@ -1,1 +1,1 @@
-spring-elastic-example
+Spring Elastic Example
